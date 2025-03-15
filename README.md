@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 💻 I'm currently working as a **Middleware Administrator**
-- 🌱 I’m currently learning **Python** 🐍
-- 🤔 I’m looking for help with **Test Design**!
+- 💻 I'm currently working as a **Middleware Engineer**
+- 🌱 I’m currently learning **React** 🐍
+- 🤔 I’m looking for help with **UI/UX**!
 - ⚡ Fun fact: I've got a passion for dog rescue.
